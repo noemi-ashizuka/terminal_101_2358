@@ -1,0 +1,15 @@
+pwd -> present working directory (where am I in my filesystem)
+ls/ll -> shows everything inside the current folder
+cd folder_name -> move to that folder
+cd .. -> goes up one folder
+mv filename folder_name -> moves a file into a folder
+mv old_filename new_filename -> renames files 
+mkdir folder_name -> create a new folder
+touch filename.html -> creates a new file
+rm filename -> removes a file
+rm -rf folder_name -> removes a folder
+code . -> opens current folder in vs code
+open filename (mac) -> open with the default program
+
+open . (mac) -> opens in filesystem
+explorer.exe . (windows) -> opens in filesystem
